@@ -39,7 +39,7 @@ button { font: inherit; }
 .menu-toggle { display: none; background: transparent; border: 0; cursor: pointer; padding: 8px; }
 .menu-toggle span { background: var(--paper); display: block; height: 1px; margin: 5px 0; width: 26px; }
 .hero { background: var(--ink); color: var(--paper); min-height: min(840px, 100vh); overflow: hidden; position: relative; }
-.hero-media { background-color: #1c2423; background-image: url('images/hero-woman-training.jpg'); background-position: center; background-size: cover; inset: 0; opacity: .72; position: absolute; transform: scale(1.02); }
+.hero-media { background-color: #1c2423; background-image: url('/manus-storage/async-images/Rau9iGT82abY8whiuANN9b/image-1.webp'), url('images/hero-woman-training.jpg'); background-position: center; background-size: cover; inset: 0; opacity: .72; position: absolute; transform: scale(1.02); }
 .hero-overlay { background: linear-gradient(90deg, rgba(6,7,7,.98) 0%, rgba(6,7,7,.83) 32%, rgba(6,7,7,.28) 73%, rgba(6,7,7,.55) 100%), linear-gradient(0deg, rgba(6,7,7,.84) 0%, transparent 36%); inset: 0; position: absolute; }
 .hero-content { display: flex; flex-direction: column; justify-content: center; min-height: min(840px, 100vh); padding-bottom: 54px; padding-top: 125px; position: relative; z-index: 1; }
 .eyebrow { align-items: center; color: #62675e; display: flex; font-family: var(--technical); font-size: 10px; font-weight: 700; gap: 10px; letter-spacing: .17em; text-transform: uppercase; }
